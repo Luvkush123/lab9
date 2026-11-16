@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee>
+        <id>24BTRSN022</id>
+        <name>Luvkush Sharma</name>
+        <designation>Full Stack Developer</designation>
+        <department>Information Technology</department>
+        <salary>85000</salary>
+        <email>luvkush@example.com</email>
+    </employee>
+    <employee>
+        <id>EMP102</id>
+        <name>Rohit Verma</name>
+        <designation>UI/UX Designer</designation>
+        <department>Design</department>
+        <salary>75000</salary>
+        <email>rohit@example.com</email>
+    </employee>
+</company>
